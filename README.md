@@ -1,3 +1,3 @@
 # UTN_TUPaD-P1
 
-Repositorio correspondiente a trabajod de Programacion 1
+Repositorio correspondiente a trabajos de Programacion 1
