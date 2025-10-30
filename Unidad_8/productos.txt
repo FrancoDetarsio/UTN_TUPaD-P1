@@ -1,0 +1,4 @@
+Lapicera, 120, 30
+Cartuchera, 300, 10
+Carpeta, 220, 15
+Iphone, 1200, 50
